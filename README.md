@@ -1,15 +1,14 @@
 <img src="https://cdn.shortpixel.ai/spai/w_353+q_+ret_img+to_webp/https://iaexpert.academy/wp-content/uploads/2020/06/iaexpert-logo-1.png"  width="160">
 
-# Mineração de Emoção em Textos
+# Mineração e Análise de Dados do Facebook
 
-Repositório criado para o curso de **Mineração de Emoção em Textos com Python e NLTK** da [IA Expert Academy](https://iaexpert.academy).
+Repositório criado para o curso de **Mineração e Análise de Dados do Facebook** da [IA Expert Academy](https://iaexpert.academy).
 
 __Objetivo:__
 
-- Mineração de textos e classificação
-- Pré-processamento dos textos
-- Detecção de emoções em textos com o Naïve Bayes
-- Avaliação do algoritmo
+- Extração de dados básicos da página
+- Visualizações, cliques, engajamento e impressões
+- Análise dos posts
 
 __Autor:__  
 
