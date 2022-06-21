@@ -4,7 +4,7 @@
 
 Repositório criado para o curso de **Mineração e Análise de Dados do Facebook** da [IA Expert Academy](https://iaexpert.academy).
 
-__Objetivo:__
+__Conteúdo:__
 
 - Extração de dados básicos da página
 - Visualizações, cliques, engajamento e impressões
